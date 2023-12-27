@@ -1,2 +1,2 @@
-# Zombie-Apocalypse-Game
-A text-based "rogue-like" game made using object-oriented programming.
+# Zombie-Survival-Game
+A text-based roguelike game made using object-oriented programming.
